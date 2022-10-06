@@ -7,7 +7,10 @@ namespace R5T.S0046
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //Construction.Instance.SurveyAssemblyFile();
+            //Construction.Instance.CreateAddXMethods();
+            //Construction.Instance.CreateAddXActionMethods();
+            Construction.Instance.Run();
         }
     }
 }
