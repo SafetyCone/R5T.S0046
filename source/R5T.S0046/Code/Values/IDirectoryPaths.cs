@@ -5,7 +5,7 @@ using R5T.T0131;
 
 namespace R5T.S0046
 {
-	[ValuesMarker]
+	[DraftValuesMarker]
 	public partial interface IDirectoryPaths : IValuesMarker
 	{
 		/// Also see: R5T.S0041.IDirectoryPaths.NuGetAssemblies.
